@@ -1,4 +1,4 @@
-# напиши здесь код для второго экрана приложения
+#код второго экрана приложения
 from PyQt5.QtCore import Qt, QTimer, QTime, QLocale
 from PyQt5.QtGui import QDoubleValidator, QIntValidator, QFont # проверка типов вводимых значений
 from PyQt5.QtWidgets import (
